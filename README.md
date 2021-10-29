@@ -10,6 +10,8 @@ git clone https://github.com/lcajachahua/clustering-bank.git
 
 Y listo! Ya puede acceder a los Notebooks y a los datos de ejemplo.
 
+Tambíen puede acceder a la grabación de la charla en el siguiente [ENLACE](https://m.facebook.com/datamining.pe/videos/charla-magistral-t%C3%A9cnicas-avanzadas-de-segmentaci%C3%B3n-en-el-sector-financiero/414119256916119/?_rdr) A partir del minuto 49:30
+
 
 ## Referencias:
 
